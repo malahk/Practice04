@@ -1,0 +1,7 @@
+Vasya Ivanov = 50
+Michael Petrov = 150
+Kirill Ivanov = 60
+Peter Ivanov = 200
+Troll Ivanov = 70
+Kolya Ivanov = 90
+Batman Ivanov = 110
